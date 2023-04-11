@@ -1,0 +1,81 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Product 2 sdsdaasda",
+      "price": "500055555",
+      "image": "https://picsum.photos/150/150 "
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "price": "5000",
+      "desc": "Description 3",
+      "image": "https://picsum.photos/150/150 ",
+      "cateId": "1"
+    },
+    {
+      "id": 4,
+      "name": "Product 4",
+      "price": "5000",
+      "desc": "Description 4",
+      "image": "https://picsum.photos/150/150 ",
+      "cateId": "1"
+    },
+    {
+      "id": 5,
+      "name": "Product 7",
+      "price": "5000",
+      "desc": "Description 5",
+      "image": "https://picsum.photos/150/150 ",
+      "cateId": "1"
+    }
+  ],
+  "Category": [
+    {
+      "id": 1,
+      "name": "Cate 1"
+    },
+    {
+      "id": 2,
+      "name": "fghfghfgh"
+    }
+  ],
+  "Users": [
+    {
+      "id": 1,
+      "name": "trung",
+      "email": "trung64@gmail.com",
+      "role": "member",
+      "password": "1233441"
+    },
+    {
+      "username": "truhgg",
+      "Email": "tdao75@gmail.com",
+      "password": "1246",
+      "role": "member",
+      "id": 2
+    },
+    {
+      "username": "sdfsfsdfs",
+      "Email": "trungddph362273@gmail.com",
+      "password": "2345678",
+      "role": "member",
+      "id": 3
+    },
+    {
+      "username": "sdfsdsdf",
+      "Email": "trungddph27823@gmail.com",
+      "password": "fsdfsdf",
+      "role": "member",
+      "id": 4
+    },
+    {
+      "username": "                  ",
+      "Email": "abcd@gmail.com",
+      "password": "123",
+      "role": "member",
+      "id": 5
+    }
+  ]
+}
